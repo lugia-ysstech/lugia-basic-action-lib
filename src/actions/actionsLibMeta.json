@@ -1,0 +1,15 @@
+{
+  "ChangeTabs": {
+    "type": "Page",
+    "title": "切换标签页",
+    "author": "@lugia",
+    "description": "切换标签页",
+    "actionName": "ChangeTabs",
+    "pluginInfo": {
+      "pluginName": "ChangeTabs",
+      "type": "Action",
+      "module": "@lugia/action-plugin",
+      "version": "1.0.0"
+    }
+  }
+}
